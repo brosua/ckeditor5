@@ -2,7 +2,7 @@
   "name": "@brosua/ckeditor5-simple-custom-build",
   "author": "Josua Vogel",
   "description": "A custom CKEditor 5 build made by the CKEditor 5 online builder.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "SEE LICENSE IN LICENSE.md",
   "main": "./build/ckeditor.js",
   "devDependencies": {
@@ -25,5 +25,11 @@
   },
   "scripts": {
     "build": "webpack --mode production"
-  }
+  },
+  "keywords": [
+    "ckeditor",
+    "ckeditor5",
+    "ckeditor5-build",
+    "ckeditor5 custom build"
+  ]
 }
